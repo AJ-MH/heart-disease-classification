@@ -18,7 +18,7 @@ Data analysis and machine learning modelling in Jupyter Notebook.
    git clone https://github.com/AJ-MH/heart-disease-classification.git
 2. Navigate into the project folder
    ```bash
-   cd your-repo-name
+   cd heart-disease-classification
 3. (Optional but recommended) Create a virtual environment:
    ```bash
    python -m venv env
